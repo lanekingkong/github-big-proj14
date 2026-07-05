@@ -1,0 +1,23 @@
+{
+  "omniforge/tests/test_all.py::TestSkills::test_validate_parameters": true,
+  "omniforge/tests/test_all.py::TestKnowledge::test_add_node": true,
+  "omniforge/tests/test_all.py::TestKnowledge::test_query": true,
+  "omniforge/tests/test_all.py::TestKnowledge::test_relate_nodes": true,
+  "omniforge/tests/test_all.py::TestDesign::test_design_md_generation": true,
+  "omniforge/tests/test_all.py::TestDesign::test_generate_from_description": true,
+  "omniforge/tests/test_all.py::TestDesign::test_generate_from_style": true,
+  "omniforge/tests/test_all.py::TestDesign::test_ui_evaluation": true,
+  "omniforge/tests/test_all.py::TestFixer::test_auto_fix_safe": true,
+  "omniforge/tests/test_all.py::TestFixer::test_engine_initialization": true,
+  "omniforge/tests/test_all.py::TestFixer::test_issue_categories": true,
+  "omniforge/tests/test_all.py::TestTrust::test_add_custom_rule": true,
+  "omniforge/tests/test_all.py::TestTrust::test_default_rules": true,
+  "omniforge/tests/test_all.py::TestTrust::test_scan_content": true,
+  "omniforge/tests/test_all.py::TestAgents::test_agent_creation": true,
+  "omniforge/tests/test_all.py::TestAgents::test_orchestrator_team_formation": true,
+  "omniforge/tests/test_all.py::TestAgents::test_registry_register": true,
+  "omniforge/tests/test_all.py::TestWorkflow::test_add_dependency": true,
+  "omniforge/tests/test_all.py::TestWorkflow::test_add_step": true,
+  "omniforge/tests/test_all.py::TestWorkflow::test_team_architectures": true,
+  "omniforge/tests/test_all.py::TestWorkflow::test_workflow_creation": true
+}
